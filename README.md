@@ -1,2 +1,2 @@
-# IETE_Mysusu
+# IETE_Mysuru
 Introduction to Data Science
